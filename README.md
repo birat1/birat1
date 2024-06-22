@@ -1,6 +1,6 @@
 ## Hi there 👋
-junya watanabe \n
-jun takahashi
+junya watanabe
+  jun takahashi
 
 
 <!--
