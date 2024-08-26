@@ -1,6 +1,5 @@
 ## :: :: :: ::
-junya watanabe  
-jun takahashi
+
 
 
 <!--
